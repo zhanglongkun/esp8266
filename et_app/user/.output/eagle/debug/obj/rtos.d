@@ -1,0 +1,46 @@
+.output/eagle/debug/obj/rtos.o .output/eagle/debug/obj/rtos.d : rtos.c ../include/et_config.h ../include/et_types.h \
+ ../include/et_config.h ../include/et_rtos.h ../include/et_types.h \
+ /work/wifi/examples//include/freertos/FreeRTOS.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
+ /work/wifi/examples//include/freertos/projdefs.h \
+ /work/wifi/examples//include/freertos/FreeRTOSConfig.h \
+ /work/wifi/examples//include/freertos/portable.h \
+ /work/wifi/examples//include/freertos/portmacro.h \
+ /work/wifi/examples//include/espressif/c_types.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdint.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
+ /work/wifi/examples//include/espressif/esp_libc.h \
+ /work/wifi/examples//include/espressif/esp8266/ets_sys.h \
+ /work/wifi/examples//extra_include/xtensa/xtruntime.h \
+ /work/wifi/examples//extra_include/xtensa/config/core.h \
+ /work/wifi/examples//extra_include/xtensa/hal.h \
+ /work/wifi/examples//extra_include/xtensa/config/core-isa.h \
+ /work/wifi/examples//extra_include/xtensa/config/core-matmap.h \
+ /work/wifi/examples//extra_include/xtensa/config/tie.h \
+ /work/wifi/examples//extra_include/xtensa/config/specreg.h \
+ /work/wifi/examples//extra_include/xtensa/corebits.h \
+ /work/wifi/examples//include/freertos/xtensa_rtos.h \
+ /work/wifi/examples//extra_include/xtensa/config/system.h \
+ /work/wifi/examples//extra_include/xtensa/simcall.h \
+ /work/wifi/examples//include/freertos/xtensa_context.h \
+ /work/wifi/examples//include/freertos/xtensa_timer.h \
+ /work/wifi/examples//include/freertos/mpu_wrappers.h \
+ /work/wifi/examples//include/freertos/task.h \
+ /work/wifi/examples//include/freertos/list.h \
+ /work/wifi/examples//include/freertos/semphr.h \
+ /work/wifi/examples//include/freertos/queue.h ../include/et_client.h \
+ ../include/et_std.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdio.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/_ansi.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/newlib.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/config.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/ieeefp.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdarg.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/reent.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/_ansi.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/_types.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/lock.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/types.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/types.h \
+ /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/stdio.h \
+ ../include/et_base.h ../include/et_rtos.h
