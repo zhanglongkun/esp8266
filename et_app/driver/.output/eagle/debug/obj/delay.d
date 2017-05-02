@@ -1,11 +1,11 @@
-.output/eagle/debug/obj/delay.o .output/eagle/debug/obj/delay.d : delay.c /work/wifi/examples//include/espressif/esp_misc.h \
- /work/wifi/examples//include/lwip/lwip/ip_addr.h \
- /work/wifi/examples//include/lwip/lwip/opt.h \
- /work/wifi/examples//include/lwip/lwipopts.h \
- /work/wifi/examples//include/lwip/lwip/debug.h \
- /work/wifi/examples//include/lwip/lwip/arch.h \
- /work/wifi/examples//include/lwip/arch/cc.h \
- /work/wifi/examples//include/espressif/c_types.h \
+.output/eagle/debug/obj/delay.o .output/eagle/debug/obj/delay.d : delay.c /work/esp8266//include/espressif/esp_misc.h \
+ /work/esp8266//include/lwip/lwip/ip_addr.h \
+ /work/esp8266//include/lwip/lwip/opt.h \
+ /work/esp8266//include/lwip/lwipopts.h \
+ /work/esp8266//include/lwip/lwip/debug.h \
+ /work/esp8266//include/lwip/lwip/arch.h \
+ /work/esp8266//include/lwip/arch/cc.h \
+ /work/esp8266//include/espressif/c_types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdint.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
@@ -22,8 +22,8 @@
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/stdio.h \
- /work/wifi/examples//include/lwip/lwip/def.h \
- /work/wifi/examples//include/lwip/ipv4/lwip/ip4_addr.h \
- /work/wifi/examples//include/lwip/ipv6/lwip/ip6_addr.h \
- /work/wifi/examples//include/espressif/c_types.h ../include/et_types.h \
+ /work/esp8266//include/lwip/lwip/def.h \
+ /work/esp8266//include/lwip/ipv4/lwip/ip4_addr.h \
+ /work/esp8266//include/lwip/ipv6/lwip/ip6_addr.h \
+ /work/esp8266//include/espressif/c_types.h ../include/et_types.h \
  ../include/et_config.h ../include/driver/delay.h

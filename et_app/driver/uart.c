@@ -463,3 +463,35 @@ void uart_send(const et_char *str,et_int32 size)
         uart_tx_one_char(UART0, *str++);
     }
 }
+
+void ICACHE_FLASH_ATTR
+uart0_tx_SendStr(uint8 *buf)
+{
+   while(*buf!='\0')
+   {
+	  uart_send(buf++,1);
+   }
+}
+
+
+void ICACHE_FLASH_ATTR
+uart0_tx_SendNum(uint32 num)
+{
+	uint8   buf[10];
+	uint32  numTmp = num;
+	int8   i=0;
+	while(numTmp)
+	{
+	  numTmp=numTmp/10;
+	  i++;
+	}
+	buf[i--]='\0';
+	for(;i>=0;i--)
+	{
+	  buf[i]=num%10 + '0';
+	  num/=10;
+	}
+	uart0_tx_SendStr(buf);
+}
+
+

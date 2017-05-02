@@ -1,19 +1,19 @@
 .output/eagle/debug/obj/base.o .output/eagle/debug/obj/base.d : base.c ../include/et_types.h ../include/et_config.h \
  ../include/et_base.h ../include/et_types.h \
- /work/wifi/examples//include/espressif/esp_common.h \
- /work/wifi/examples//include/espressif/c_types.h \
+ /work/esp8266//include/espressif/esp_common.h \
+ /work/esp8266//include/espressif/c_types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdint.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
- /work/wifi/examples//include/espressif/esp_libc.h \
- /work/wifi/examples//include/espressif/esp_misc.h \
- /work/wifi/examples//include/lwip/lwip/ip_addr.h \
- /work/wifi/examples//include/lwip/lwip/opt.h \
- /work/wifi/examples//include/lwip/lwipopts.h \
- /work/wifi/examples//include/lwip/lwip/debug.h \
- /work/wifi/examples//include/lwip/lwip/arch.h \
- /work/wifi/examples//include/lwip/arch/cc.h \
- /work/wifi/examples//include/espressif/c_types.h \
+ /work/esp8266//include/espressif/esp_libc.h \
+ /work/esp8266//include/espressif/esp_misc.h \
+ /work/esp8266//include/lwip/lwip/ip_addr.h \
+ /work/esp8266//include/lwip/lwip/opt.h \
+ /work/esp8266//include/lwip/lwipopts.h \
+ /work/esp8266//include/lwip/lwip/debug.h \
+ /work/esp8266//include/lwip/lwip/arch.h \
+ /work/esp8266//include/lwip/arch/cc.h \
+ /work/esp8266//include/espressif/c_types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdio.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/_ansi.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/newlib.h \
@@ -27,58 +27,58 @@
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/stdio.h \
- /work/wifi/examples//include/lwip/lwip/def.h \
- /work/wifi/examples//include/lwip/ipv4/lwip/ip4_addr.h \
- /work/wifi/examples//include/lwip/ipv6/lwip/ip6_addr.h \
- /work/wifi/examples//include/espressif/esp_wifi.h \
- /work/wifi/examples//include/espressif/esp_softap.h \
- /work/wifi/examples//include/espressif/queue.h \
- /work/wifi/examples//include/espressif/esp_sta.h \
- /work/wifi/examples//include/espressif/esp_system.h \
- /work/wifi/examples//include/espressif/esp_timer.h \
- /work/wifi/examples//include/espressif/esp_ssc.h \
- /work/wifi/examples//include/espressif/esp_spiffs.h \
- /work/wifi/examples//include/spiffs/spiffs.h \
- /work/wifi/examples//include/spiffs/spiffs_config.h \
+ /work/esp8266//include/lwip/lwip/def.h \
+ /work/esp8266//include/lwip/ipv4/lwip/ip4_addr.h \
+ /work/esp8266//include/lwip/ipv6/lwip/ip6_addr.h \
+ /work/esp8266//include/espressif/esp_wifi.h \
+ /work/esp8266//include/espressif/esp_softap.h \
+ /work/esp8266//include/espressif/queue.h \
+ /work/esp8266//include/espressif/esp_sta.h \
+ /work/esp8266//include/espressif/esp_system.h \
+ /work/esp8266//include/espressif/esp_timer.h \
+ /work/esp8266//include/espressif/esp_ssc.h \
+ /work/esp8266//include/espressif/esp_spiffs.h \
+ /work/esp8266//include/spiffs/spiffs.h \
+ /work/esp8266//include/spiffs/spiffs_config.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdlib.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/stdlib.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/alloca.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/string.h \
- /work/wifi/examples//include/freertos/FreeRTOS.h \
- /work/wifi/examples//include/freertos/projdefs.h \
- /work/wifi/examples//include/freertos/FreeRTOSConfig.h \
- /work/wifi/examples//include/freertos/portable.h \
- /work/wifi/examples//include/freertos/portmacro.h \
- /work/wifi/examples//include/espressif/esp_libc.h \
- /work/wifi/examples//include/espressif/esp8266/ets_sys.h \
- /work/wifi/examples//extra_include/xtensa/xtruntime.h \
- /work/wifi/examples//extra_include/xtensa/config/core.h \
- /work/wifi/examples//extra_include/xtensa/hal.h \
- /work/wifi/examples//extra_include/xtensa/config/core-isa.h \
- /work/wifi/examples//extra_include/xtensa/config/core-matmap.h \
- /work/wifi/examples//extra_include/xtensa/config/tie.h \
- /work/wifi/examples//extra_include/xtensa/config/specreg.h \
- /work/wifi/examples//extra_include/xtensa/corebits.h \
- /work/wifi/examples//include/freertos/xtensa_rtos.h \
- /work/wifi/examples//extra_include/xtensa/config/system.h \
- /work/wifi/examples//extra_include/xtensa/simcall.h \
- /work/wifi/examples//include/freertos/xtensa_context.h \
- /work/wifi/examples//include/freertos/xtensa_timer.h \
- /work/wifi/examples//include/freertos/mpu_wrappers.h \
- /work/wifi/examples//include/freertos/task.h \
- /work/wifi/examples//include/freertos/list.h \
- /work/wifi/examples//include/espressif/esp8266/esp8266.h \
- /work/wifi/examples//include/espressif/esp8266/ets_sys.h \
- /work/wifi/examples//include/espressif/esp8266/eagle_soc.h \
- /work/wifi/examples//include/espressif/esp8266/gpio_register.h \
- /work/wifi/examples//include/espressif/esp8266/pin_mux_register.h \
- /work/wifi/examples//include/espressif/esp8266/spi_register.h \
- /work/wifi/examples//include/espressif/esp8266/timer_register.h \
- /work/wifi/examples//include/espressif/esp8266/uart_register.h \
- /work/wifi/examples//include/espressif/smartconfig.h \
- /work/wifi/examples//include/espressif/spi_flash.h \
- /work/wifi/examples//include/lwip/lwip/sockets.h \
- /work/wifi/examples//include/lwip/ipv4/lwip/inet.h \
- /work/wifi/examples//include/lwip/ipv6/lwip/inet6.h \
- /work/wifi/examples//include/lwip/lwip/netdb.h ../include/et_client.h \
+ /work/esp8266//include/freertos/FreeRTOS.h \
+ /work/esp8266//include/freertos/projdefs.h \
+ /work/esp8266//include/freertos/FreeRTOSConfig.h \
+ /work/esp8266//include/freertos/portable.h \
+ /work/esp8266//include/freertos/portmacro.h \
+ /work/esp8266//include/espressif/esp_libc.h \
+ /work/esp8266//include/espressif/esp8266/ets_sys.h \
+ /work/esp8266//extra_include/xtensa/xtruntime.h \
+ /work/esp8266//extra_include/xtensa/config/core.h \
+ /work/esp8266//extra_include/xtensa/hal.h \
+ /work/esp8266//extra_include/xtensa/config/core-isa.h \
+ /work/esp8266//extra_include/xtensa/config/core-matmap.h \
+ /work/esp8266//extra_include/xtensa/config/tie.h \
+ /work/esp8266//extra_include/xtensa/config/specreg.h \
+ /work/esp8266//extra_include/xtensa/corebits.h \
+ /work/esp8266//include/freertos/xtensa_rtos.h \
+ /work/esp8266//extra_include/xtensa/config/system.h \
+ /work/esp8266//extra_include/xtensa/simcall.h \
+ /work/esp8266//include/freertos/xtensa_context.h \
+ /work/esp8266//include/freertos/xtensa_timer.h \
+ /work/esp8266//include/freertos/mpu_wrappers.h \
+ /work/esp8266//include/freertos/task.h \
+ /work/esp8266//include/freertos/list.h \
+ /work/esp8266//include/espressif/esp8266/esp8266.h \
+ /work/esp8266//include/espressif/esp8266/ets_sys.h \
+ /work/esp8266//include/espressif/esp8266/eagle_soc.h \
+ /work/esp8266//include/espressif/esp8266/gpio_register.h \
+ /work/esp8266//include/espressif/esp8266/pin_mux_register.h \
+ /work/esp8266//include/espressif/esp8266/spi_register.h \
+ /work/esp8266//include/espressif/esp8266/timer_register.h \
+ /work/esp8266//include/espressif/esp8266/uart_register.h \
+ /work/esp8266//include/espressif/smartconfig.h \
+ /work/esp8266//include/espressif/spi_flash.h \
+ /work/esp8266//include/lwip/lwip/sockets.h \
+ /work/esp8266//include/lwip/ipv4/lwip/inet.h \
+ /work/esp8266//include/lwip/ipv6/lwip/inet6.h \
+ /work/esp8266//include/lwip/lwip/netdb.h ../include/et_client.h \
  ../include/et_std.h ../include/et_base.h ../include/et_rtos.h

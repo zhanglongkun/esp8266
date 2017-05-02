@@ -1,16 +1,15 @@
-.output/eagle/debug/obj/i2c_master.o .output/eagle/debug/obj/i2c_master.d : i2c_master.c \
- /work/wifi/examples//include/espressif/c_types.h \
+.output/eagle/debug/obj/i2c_master.o .output/eagle/debug/obj/i2c_master.d : i2c_master.c /work/esp8266//include/espressif/c_types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdint.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
- /work/wifi/examples//include/espressif/esp_misc.h \
- /work/wifi/examples//include/lwip/lwip/ip_addr.h \
- /work/wifi/examples//include/lwip/lwip/opt.h \
- /work/wifi/examples//include/lwip/lwipopts.h \
- /work/wifi/examples//include/lwip/lwip/debug.h \
- /work/wifi/examples//include/lwip/lwip/arch.h \
- /work/wifi/examples//include/lwip/arch/cc.h \
- /work/wifi/examples//include/espressif/c_types.h \
+ /work/esp8266//include/espressif/esp_misc.h \
+ /work/esp8266//include/lwip/lwip/ip_addr.h \
+ /work/esp8266//include/lwip/lwip/opt.h \
+ /work/esp8266//include/lwip/lwipopts.h \
+ /work/esp8266//include/lwip/lwip/debug.h \
+ /work/esp8266//include/lwip/lwip/arch.h \
+ /work/esp8266//include/lwip/arch/cc.h \
+ /work/esp8266//include/espressif/c_types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdio.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/_ansi.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/newlib.h \
@@ -24,11 +23,11 @@
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/types.h \
  /work/wifi/xtensa-lx106-elf-master/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/stdio.h \
- /work/wifi/examples//include/lwip/lwip/def.h \
- /work/wifi/examples//include/lwip/ipv4/lwip/ip4_addr.h \
- /work/wifi/examples//include/lwip/ipv6/lwip/ip6_addr.h \
- /work/wifi/examples//include/espressif/esp8266/eagle_soc.h \
- /work/wifi/examples//include/espressif/esp8266/gpio_register.h \
- /work/wifi/examples//include/espressif/esp8266/pin_mux_register.h \
- /work/wifi/examples//include/espressif/esp8266/ets_sys.h \
+ /work/esp8266//include/lwip/lwip/def.h \
+ /work/esp8266//include/lwip/ipv4/lwip/ip4_addr.h \
+ /work/esp8266//include/lwip/ipv6/lwip/ip6_addr.h \
+ /work/esp8266//include/espressif/esp8266/eagle_soc.h \
+ /work/esp8266//include/espressif/esp8266/gpio_register.h \
+ /work/esp8266//include/espressif/esp8266/pin_mux_register.h \
+ /work/esp8266//include/espressif/esp8266/ets_sys.h \
  ../include/driver/gpio.h ../include/driver/i2c_master.h
